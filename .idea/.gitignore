@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# 로그 파일에 대한 추적 해제
+# *.log
+logs/*.log
+# 압축 파일도 이 프로젝트에서는 추적 안함
+*.zip
